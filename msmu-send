@@ -1,0 +1,15 @@
+#!/bin/sh
+
+instance=${1}
+
+shift 1
+
+if ! screen -list | grep -q ${instance}
+then
+    >&2 printf "%s: unable to send %s: instance is not running\n" ${0} ${instance}
+    exit 1
+fi
+
+value="${@}"
+screen -p 0 -S ${instance} -X stuff "${value}\\015"
+exit 0

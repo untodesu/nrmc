@@ -1,0 +1,29 @@
+#!/bin/sh
+
+instance=${1}
+instance_dir="${HOME}/.msmu/${instance}"
+instance_stop_sh="${instance_dir}/stop.sh"
+
+shift 1
+
+if ! screen -list | grep -q ${instance}
+then
+    >&2 printf "%s: unable to stop %s: instance is not running\n" ${0} ${instance}
+    exit 1
+fi
+
+if [ -f "${instance_stop_sh}" ]
+then
+    . $(realpath ${instance_stop_sh})
+fi
+
+screen -p 0 -S ${instance} -X stuff "save-all\\015"
+screen -p 0 -S ${instance} -X stuff "stop\\015"
+
+while screen -list | grep -1 ${instance} > /dev/null
+do
+    >&2 printf "%s: awaiting for %s to shut down\n" ${0} ${instance}
+    sleep 1
+done
+
+exit 0
