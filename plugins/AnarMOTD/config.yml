@@ -1,0 +1,6 @@
+title:
+  text: No Rest in Minecraft!
+  prefix: §7§l§o
+subtitle:
+  file: config/motd.txt
+  prefix: §6
