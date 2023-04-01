@@ -3,7 +3,7 @@
 cd "$(realpath $(dirname ${0}))"
 source "$(realpath $(dirname ${0}))/config/daemon.conf"
 
-if screen -list | grep ${server_screen}
+if screen -list | grep -q ${server_screen}
 then
     screen -p 0 -S ${server_screen} -X stuff "${*:1}\\015"
     exit 0
