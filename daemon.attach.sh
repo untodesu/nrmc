@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd "$(realpath $(dirname ${0}))"
-source "$(realpath $(dirname ${0}))/config/daemon.conf"
+cd "$(realpath $(dirname ${BASH_SOURCE[0]}))"
+source "${PWD}/config/daemon.conf"
 
 if screen -list | grep -q ${server_screen}
 then
