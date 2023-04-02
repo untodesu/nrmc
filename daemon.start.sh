@@ -23,5 +23,5 @@ then
     fi
 fi
 
-screen -dm -S ${server_screen} java -server ${jvm_args[@]} -jar "$(realpath $(dirname ${0}))/${server_jar}" ${server_args[@]} --nogui
+screen -dm -S ${server_screen} java -server ${jvm_args[@]} -jar "${PWD}/${server_jar}" ${server_args[@]} --nogui
 exit 0
