@@ -1,0 +1,7 @@
+motd:
+  file: config/motd.txt
+  format: §6
+title:
+  mode: prefixed
+  text: NRMC
+  format: §7§l§o
