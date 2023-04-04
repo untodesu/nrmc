@@ -9,7 +9,12 @@ mkdir -p $(dirname ${service_log})
 
 if screen -list | grep -q ${screen_name};
 then
-    screen -p 0 -S ${screen_name} -X stuff "kick @a Server stopped\\015"
+    if [ "${#}" -gt 0 ]
+    then
+        screen -p 0 -S ${screen_name} -X stuff "kick @a ${*}\\015"
+    else
+        screen -p 0 -S ${screen_name} -X stuff "kick @a Server stopped\\015"
+    fi
     screen -p 0 -S ${screen_name} -X stuff "save-all\\015"
     screen -p 0 -S ${screen_name} -X stuff "stop\\015"
 
