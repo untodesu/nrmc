@@ -2,8 +2,8 @@
 
 unset jvm_args
 jvm_args="${jvm_args} -Xms1024M"
-jvm_args="${jvm_args} -Xmx2048M"
-jvm_args="${jvm_args} -XX:ActiveProcessorCount=2"
+jvm_args="${jvm_args} -Xmx8192M"
+jvm_args="${jvm_args} -XX:ActiveProcessorCount=4"
 jvm_args="${jvm_args} -XX:+UseG1GC"
 jvm_args="${jvm_args} -XX:+ParallelRefProcEnabled"
 jvm_args="${jvm_args} -XX:MaxGCPauseMillis=200"
