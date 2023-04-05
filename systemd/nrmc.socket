@@ -1,7 +1,0 @@
-[Unit]
-Description=NRMC server stdin
-PartOf=nrmc.service
-
-[Socket]
-Service=nrmc.service
-ListenFIFO=%h/nrmc/systemd/console.stdin
