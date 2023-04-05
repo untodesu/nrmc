@@ -179,10 +179,7 @@ You will never be a roomba
 Your home bed was missing or obstructed
 https://discord.gg/AFe6Acxr78
 https://youtu.be/0KH9puMuF70
-https://youtu.be/Ey9q_hcnYHE
-https://youtu.be/jWDYnSbqdLM
-https://youtu.be/m_eRlGQwSYc
-https://youtu.be/nU1_-k3RJqg
+https://youtu.be/dQw4w9WgXcQ
 https://youtu.be/uzHoHW_aWzU
 https://youtu.be/xtxjm7ciwmc
 sudo killall -KILL java
