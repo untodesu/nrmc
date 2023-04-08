@@ -11,7 +11,7 @@ jvm_args="${jvm_args} -XX:ActiveProcessorCount=4"
 
 unset server_args
 server_args="${server_args} --nogui"
-server_args="${server_args} --universe worlds"
+server_args="${server_args} --universe save"
 
 unset server_path
 server_path="${PWD}/paper-1.19.4-492.jar"
