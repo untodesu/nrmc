@@ -1,0 +1,4 @@
+nrmc.defaults:
+    default: true
+    children:
+        bukkit.command.tps: true
