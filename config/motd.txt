@@ -32,7 +32,6 @@ Florida is the best state
 FreeBSD > all other systems
 From Urals with love!
 Fuck you Microsoft
-GPLv3 plugins only!
 God is dead and we killed him
 Great Britain is an American Colony
 Have you heard of a hit game Among Us?
@@ -81,6 +80,7 @@ Nothing happened at Tiananmen Square
 Nothing happened in China in 1989
 OMEGALUL
 Ohio is the best state (lies)
+Open-source plugins only!
 Opeth is the best band ever
 POV: no father figure
 PTN PNX
@@ -103,7 +103,7 @@ Send dudes, we need more men!
 Sleepy Joe's favourite Minecraft server
 Sometimes I dream about cheese
 Space Shuttle > Energia-Buran
-Spawn radius is set to 10 kilometers
+Spawn radius is set to 500 meters
 Spawncamping made impossible
 Sponsored by American Government
 Sponsored by British Government
@@ -155,7 +155,7 @@ WE'RE GONNA BE TALKING ABOUT THE PENIS
 Welcome to the Internet
 What in the fuck?
 What is a MOTD?
-Who the fuck set spawnradius to 10000?!
+Who the fuck set spawnradius to 500?!
 Withering gameplay awaits
 YOU DARE CHALLENGE MEGAMIND?!
 YTPMV artists deserve more than they do!
