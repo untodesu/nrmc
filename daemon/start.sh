@@ -14,7 +14,7 @@ server_args="${server_args} --nogui"
 server_args="${server_args} --universe save"
 
 unset server_path
-server_path="${PWD}/paper_server.jar"
+server_path="${PWD}/purpur_server.jar"
 
 # The daemon.log file contains logged events about
 # server starts, stops, commands sent through the
@@ -49,7 +49,7 @@ then
     fi
 
     printf "[%s] stopping server\n" "$(date +'%F %T')" >> "${daemon_log}"
-    screen -XS ${server_name} stuff "save-all\\015"
+    screen -XS ${screen_name} stuff "save-all\\015"
     screen -XS ${screen_name} quit
 fi
 
