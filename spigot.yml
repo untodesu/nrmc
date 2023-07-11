@@ -11,11 +11,11 @@
 # Forums: http://www.spigotmc.org/
 
 settings:
+  restart-script: ./start.sh
   debug: false
   player-shuffle: 0
   timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
+  restart-on-crash: false
   save-user-cache-on-stop-only: false
   sample-count: 12
   bungeecord: false
