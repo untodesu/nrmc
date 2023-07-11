@@ -13,3 +13,15 @@ version_history.json
 versions
 versions/**
 whitelist.json
+daemon/daemon.log
+plugins/squaremap/data
+plugins/squaremap/data/**
+plugins/CoreProtect/database.db
+plugins/bStats
+plugins/bStats/**
+.console_history
+plugins/squaremap/locale
+plugins/squaremap/locale/**
+plugins/squaremap/web
+plugins/squaremap/web/**
+plugins/CoreProtect/.license

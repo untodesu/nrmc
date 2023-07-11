@@ -1,4 +1,18 @@
-nrmc.defaults:
+bukkit.command.tps:
+    default: true
+coreprotect.lookup:
     default: true
     children:
-        bukkit.command.tps: true
+        coreprotect.lookup.block:       true
+        coreprotect.lookup.chat:        true
+        coreprotect.lookup.click:       true
+        coreprotect.lookup.command:     true
+        coreprotect.lookup.container:   true
+        coreprotect.lookup.inventory:   true
+        coreprotect.lookup.kill:        true
+        coreprotect.lookup.near:        true
+        coreprotect.lookup.session:     true
+        coreprotect.lookup.sign:        true
+        coreprotect.lookup.username:    true
+coreprotect.inspect:
+    default: true
