@@ -3,7 +3,7 @@ settings:
     language-file: lang-en.yml
     debug-mode: false
     update-checker: true
-    web-address: http://localhost:8123
+    web-address: http://localhost:54000
     web-directory:
         path: web
         auto-update: true
@@ -14,7 +14,7 @@ settings:
     internal-webserver:
         enabled: true
         bind: 0.0.0.0
-        port: 8123
+        port: 54000
     ui:
         coordinates:
             enabled: true
