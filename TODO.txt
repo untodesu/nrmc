@@ -1,0 +1,21 @@
+1.  Plugin: implementing a /broadcast command
+    that will both broadcast service messages
+    to the chat, as a title to players and as
+    an embed to a specified Discord channel.
+2.  Plugin: a Telegram bot for controlling server
+    related matters via a simple text command
+    interface - whitelist, banning, checking
+    latest N log messages and so on.
+3.  Alternativ to 2: find a plugin or something
+    else that allows web-based control with
+    password stored in an encrypted storage
+    rather than openly in a plugins subdirectory
+    so configs can be safely pushed to github.
+4.  Update to 1.20.x, set world border to 20k,
+    gradually increase spawn radius every week
+    until it reaches the grand total of 20 thousand.
+5.  Plugin: giving new players a written book with
+    general considerations slash rules, links
+    to non-ingame chats like Discord and ways
+    to contact moderators.
+6.  Something else?
