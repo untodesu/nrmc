@@ -2,6 +2,7 @@ title:
   mode: prefix
   color: gray
   style: bold,italic
+  value: NRMC
 motd:
   file: plugins/AnarMotd/motds.txt
   color: gold
