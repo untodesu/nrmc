@@ -25,3 +25,4 @@ plugins/squaremap/locale/**
 plugins/squaremap/web
 plugins/squaremap/web/**
 plugins/CoreProtect/.license
+plugins/Disannouncer/config.yml

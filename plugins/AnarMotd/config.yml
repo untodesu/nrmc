@@ -1,7 +1,8 @@
-motd:
-  file: config/motd.txt
-  format: §6
 title:
-  mode: prefixed
-  text: NRMC
-  format: §7§l§o
+  mode: prefix
+  color: gray
+  style: bold,italic
+motd:
+  file: plugins/AnarMotd/motds.txt
+  color: gold
+  style: none
