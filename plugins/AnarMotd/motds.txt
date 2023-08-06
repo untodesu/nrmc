@@ -5,33 +5,57 @@
 100% suspicious
 AAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ARM > M68k
+ARM > RISC-V
+ARM > X86
 AT&T syntax is uhhh... better
 Also try pqcraft.ddns.net!
 Among Us public server
 Arch > Debian
 Automated via crontab
+BILLIONS MUST CRAFT
+BILLIONS MUST GRIND
+BILLIONS MUST MINE
+BILLIONS MUST STRIPMINE
 Beware of death
 Beware of trolls
 Beware or players
 Billy Bones died from cringe
+BitBucket > GitHub
+BitBucket > GitLab
 Both? Both. Both is good.
 Buck up, lads! We'll get 'em next time.
+Bush hid the facts
+CO-OP COCK TORTURE
+CUM CRAMMER vs COCK SLAMMER
+CUM CUM CUM CUM CUM CUM CUM CUM CUM CUM
+CUM LOUD AND CUM PROUD
 Can't Keep Up! Is the Server Overloaded?
 Can't connect to the server (in red)
 Coca Cola > Pepsi
-Cooperation throgh hardmode
+Cooperation through hardmode
 Crystal Methamphetamine
+DELETE THIS
 DO YOU THINK THAT'S FUNNY, BUTTHEAD?
 DOES A SET OF ALL SETS CONTAIN ITSELF?
 Dead server, don't join
 Debian > Arch
 Don't you lecture me with your $30 server!
 Energia-Buran > Space Shuttle
+FACTIONS | PRISON | ARENA PVP
+FELLAS! IS IT GAY TO PLAY MINECRAFT?
+FIRST THE KISS, THEN THE CUM
 FREEEEEEDOOOOOOOM
+FRESH BALLS
 Florida is the best state
 FreeBSD > all other systems
 From Urals with love!
-Fuck you Microsoft
+Fuck Microsoft
+GET PREGRANT GET PREGNANT GET PREGNANT
+GitHub > BitBucket
+GitHub > GitLab
+GitLab > BitBucket
+GitLab > GitHub
 God is dead and we killed him
 Great Britain is an American Colony
 Have you heard of a hit game Among Us?
@@ -40,6 +64,10 @@ Hippity-Hoppity, this is now my property
 Hosted in Germany
 How's that feel, ya blockhead?
 I DO NOT HAVE DADDY ISSUES
+I FUCKING LOVE EATING FIBER OPTIC CABLES
+I ROAR when I have SEX!
+I WATCH PORN!
+I am confiscating that MOTD
 I am inside your walls
 I am under your skin, rip it off
 I identify as a P-Channel MOSFET
@@ -49,18 +77,42 @@ I identify as a field-effect transistor
 I identify as a roomba
 I identify as an N-Channel MOSFET
 I identify as an Operational Amplifier
+I just pissed.
 I kissed my homie (we both said no homo)
 I'm not gay but $20 is $20
+If you kill people, they will die
 Intel syntax is err... better
 Just eleven more suicides
+Keeping things close to vanilla is the way
 Kernel panic - not syncing
 Kino is the best band ever
 Korol i Shut is the best band ever
+LEGALIZE NUCLEAR BOMBS
+M68k > ARM
+M68k > RISC-V
+M68k > X86
+M68k is the best CPU architecture!
 MY. ASS. IS. HEAVY.
-Made in Northern North Korea
+Made in Canada
+Made in China
+Made in Germany
 Made in Russia
+Made in Ukraine
+Made in United Kingdom
+Made in [REDACTED]
+Made in the US
+Maintained from Canada
+Maintained from China
+Maintained from Germany
 Maintained from Russia
+Maintained from Ukraine
+Maintained from United Kingdom
+Maintained from the US
 Make a bed as soon as possible
+Microsoft is a bad corporation
+Microsoft is a shit corporation
+Microsoft must be demolished as an entity
+Microsoft must be split like AT&T was
 My Name Is Skyler White, Yo
 My husband is Walter White, yo
 My suggestion is to cry about it
@@ -79,9 +131,12 @@ No bitches?
 Nothing happened at Tiananmen Square
 Nothing happened in China in 1989
 OMEGALUL
+ONLY CUM INSIDE ANIME GIRLS
+Oh, I get it! (I don't get it)
 Ohio is the best state (lies)
 Open-source plugins only!
 Opeth is the best band ever
+PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP
 POV: no father figure
 PTN PNX
 Pepsi > Coca Cola
@@ -90,12 +145,12 @@ Pinging...
 Ponging...
 Queen is the best band ever
 REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-RIP free KDMC 2019-2023
-Runs at ico277.xyz:53999
-Runs at nrmc.gprb.su
-Runs at nrmc.gprb.su:53999
+RISC-V > ARM
+RISC-V > M68k
+RISC-V > X86
 Russia > United States
 STOP POSTING ABOUT AMONG US
+Searching for fucks to give...
 Seems like a skill issue
 Segmentation fault (core dumped)
 Sektor Gaza is the best band ever!
@@ -103,8 +158,6 @@ Send dudes, we need more men!
 Sleepy Joe's favourite Minecraft server
 Sometimes I dream about cheese
 Space Shuttle > Energia-Buran
-Spawn radius is set to 500 meters
-Spawncamping made impossible
 Sponsored by American Government
 Sponsored by British Government
 Sponsored by Canadian Government
@@ -114,27 +167,35 @@ Sponsored by Russian Government
 Sponsored by Ukrainian Government
 Sponsored by [REDACTED] Government
 Spy among us
+Stay hydrated. This is a threat.
 Sus among us
 TASTE THE PEANESS
 THEY WANT YOU AS A NEW RECRUIT
 THEY WANT YOU, THEY WANT YOU
 THIS MOTD IS FALSE
+THIS SERVER IS A WAR CRIME
 THIS STATEMENT IS FALSE
+THREE LITTLE WORDS: GET FUCKED NERD
+TRUE BADASS ANIME MAN
 TSOI LIVES
 That autopsy report is outdated!
 The Hardmode (death!)
 The Penis (eek!)
 The Phallos (bollocks!)
 The Server (ping!)
+The book of Megadrive
 The feminine urge to eat dirt and twigs
 The masculine urge to grind for diamonds
 The masculine urge to vent
 The masculine urge to wear thighhighs
+The rapidly dwindling sanity of f12xz
+The rapidly dwindling sanity of undetz
 The worst 2b2t wannabe
 There is a rickroll link somewhere
+This MOTD requires a NRMC gold account
 This isn't 2b2t
 This isn't anarchy
-This server > KDMC
+This server is against EULA changes!
 This server is good for Venting
 This server runs on coal
 This server runs on gasoline
@@ -142,6 +203,7 @@ This server runs on its feet
 This server runs on virgin blood
 This server runs, not walk
 This server walks, not run
+Timings reset!
 United States > Russia
 United States is a British Colony
 Utah is the best state
@@ -152,11 +214,15 @@ WAKE UP JOHN
 WAKE UP MISTER SMITH
 WE'LL BE TALKING ABOUT THE VAGINA
 WE'RE GONNA BE TALKING ABOUT THE PENIS
+WELCOME TO THE CUM ZONE
+WHAT'S ALL THE CUMMOTION
 Welcome to the Internet
 What in the fuck?
 What is a MOTD?
-Who the fuck set spawnradius to 500?!
 Withering gameplay awaits
+X86 > ARM
+X86 > M68k
+X86 > RISC-V
 YOU DARE CHALLENGE MEGAMIND?!
 YTPMV artists deserve more than they do!
 Yekaterinburg > All European Cities
@@ -165,15 +231,17 @@ Yes, it uses a Soviet domain
 You are banned for griefing!
 You are banned for hacking!
 You are banned from this server!
+You can call me the cum guy.
 You can do it!
 You can't do it.
-You cannot spawncamp here I dare you
 You have been banned for posting cringe!
 You know who else plays on NRMC?
 You will never be a real crafter
 You will never be a real miner
 You will never be a roomba
 Your home bed was missing or obstructed
+[CENSORED ACCORDING TO MOJANG'S EULA]
+[CENSORED THANKS TO MICROSOFT]
 https://discord.gg/AFe6Acxr78
 https://youtu.be/0KH9puMuF70
 https://youtu.be/dQw4w9WgXcQ
@@ -181,3 +249,5 @@ https://youtu.be/uzHoHW_aWzU
 https://youtu.be/xtxjm7ciwmc
 sudo killall -KILL java
 sudo rm -rf / --no-preserve-root
+sudo touch some grass
+sudo wget some bitches

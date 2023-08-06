@@ -14,7 +14,7 @@ server_args="${server_args} --nogui"
 server_args="${server_args} --universe save"
 
 unset server_jar
-server_jar="${PWD}/paper-1.19.4-550.jar"
+server_jar="${PWD}/paper-1.20.1-108.jar"
 
 action=${1}
 shift 1

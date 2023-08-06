@@ -24,6 +24,7 @@ settings:
         PlayerJoinEvent: false
         BlockFromToEvent: false
         BlockPhysicsEvent: false
+        PlayerChunkLoadEvent: false
 world-settings:
     default:
         invisible-blocks:
