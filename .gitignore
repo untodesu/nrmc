@@ -25,4 +25,7 @@ plugins/squaremap/locale/**
 plugins/squaremap/web
 plugins/squaremap/web/**
 plugins/CoreProtect/.license
-plugins/Disannouncer/config.yml
+plugins/DiscordSRV/config.yml
+plugins/DiscordSRV/linkedaccounts.json
+plugins/DiscordSRV/discord-console-logs
+plugins/DiscordSRV/discord-console-logs/**

@@ -16,3 +16,7 @@ coreprotect.lookup:
         coreprotect.lookup.username:    true
 coreprotect.inspect:
     default: true
+discordsrv.player:
+    default: op
+discordsrv.admin:
+    default: op
