@@ -1,5 +1,9 @@
 #!/bin/sh
 
+export LANG=C
+export LANGUAGE=C
+export LC_ALL=C
+
 # the script is located in the server root
 # so it's a good idea for us to cd there...
 cd $(realpath $(dirname ${0}))

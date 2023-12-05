@@ -135,7 +135,7 @@ DynmapDiscordFormat: "[Dynmap] %name% » %message%"
 # DiscordConsoleChannelSuffix: The suffix to append
 #
 DiscordConsoleChannelTimestampFormat: "EEE HH:mm:ss"
-DiscordConsoleChannelPrefix: "[{date} {level}{name}] "
+DiscordConsoleChannelPrefix: "{level}[{date}{name}] "
 DiscordConsoleChannelSuffix: ""
 DiscordConsoleChannelPadding: 0
 
