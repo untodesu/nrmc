@@ -1,4 +1,4 @@
-config-version: 1
+config-version: 2
 settings:
     event-listeners:
         BlockFormEvent: true
@@ -52,6 +52,7 @@ world-settings:
                     minecraft:jungle: '#1f8907'
                     minecraft:dark_forest: '#1c7b07'
                     minecraft:sparse_jungle: '#1f8907'
+                    minecraft:mangrove_swamp: '#6f9623'
                 grass: {}
                 water: {}
             blocks:
@@ -81,3 +82,4 @@ world-settings:
                 minecraft:lily_pad: '#208030'
                 minecraft:oxeye_daisy: '#D6E8E8'
                 minecraft:dandelion: '#FFEC4F'
+                minecraft:pink_petals: '#FFB4DB'
