@@ -20,6 +20,8 @@ discordsrv.player:
     default: op
 discordsrv.admin:
     default: op
+pl3xmap.command.map:
+    default: true
 pl3xmap.command.hide:
     default: true
 pl3xmap.command.show:

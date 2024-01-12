@@ -25,8 +25,8 @@ shift 1
 
 # Start if not running
 if test ${action} = watch; then
-    if ! screen -list | grep -q nrmc; then
-        screen -dmS nrmc java ${jvm_args} -jar ${server_jar} ${server_args}
+    if ! screen -list | grep -q minecraft; then
+        screen -dmS minecraft java ${jvm_args} -jar ${server_jar} ${server_args}
         exit 0
     fi
 
@@ -35,29 +35,29 @@ fi
 
 # Start or restart the server
 if test ${action} = start || test ${action} = restart; then
-    if screen -list | grep -q nrmc; then
-        screen -XS nrmc stuff "save-all\\015"
-        screen -XS nrmc stuff "kick @a Server is restarting\\015"
-        screen -XS nrmc stuff "stop\\015"
+    if screen -list | grep -q minecraft; then
+        screen -XS minecraft stuff "save-all\\015"
+        screen -XS minecraft stuff "kick @a Server is restarting\\015"
+        screen -XS minecraft stuff "stop\\015"
         sleep 5
-        screen -XS nrmc quit > /dev/null 2>&1
+        screen -XS minecraft quit > /dev/null 2>&1
     fi
 
-    screen -dmS nrmc java ${jvm_args} -jar ${server_jar} ${server_args}
+    screen -dmS minecraft java ${jvm_args} -jar ${server_jar} ${server_args}
     exit 0
 fi
 
 # Send a text command
 if test ${action} = stuff; then
-    screen -XS nrmc stuff "${*}\\015" > /dev/null 2>&1
+    screen -XS minecraft stuff "${*}\\015" > /dev/null 2>&1
     exit 0
 fi
 
 # Clobber the session
 if test ${action} = stop; then
-    screen -XS nrmc stuff "save-all\\015"
-    screen -XS nrmc stuff "stop\\015"
-    screen -XS nrmc quit > /dev/null 2>&1
+    screen -XS minecraft stuff "save-all\\015"
+    screen -XS minecraft stuff "stop\\015"
+    screen -XS minecraft quit > /dev/null 2>&1
     exit 0
 fi
 

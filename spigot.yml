@@ -48,8 +48,8 @@ world-settings:
     seed-trailruins: 83469867
     below-zero-generation-in-existing-chunks: true
     merge-radius:
-      item: 2.5
-      exp: 3.0
+      item: 2.0
+      exp: 0.1
     view-distance: default
     simulation-distance: default
     mob-spawn-range: 8
