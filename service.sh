@@ -8,25 +8,13 @@ export LC_ALL=C
 # so it's a good idea for us to cd there...
 cd $(realpath $(dirname ${0}))
 
-unset jvm_args
-jvm_args="${jvm_args} -Xms1024M"
-jvm_args="${jvm_args} -Xmx8192M"
-jvm_args="${jvm_args} -XX:ActiveProcessorCount=4"
-
-unset server_args
-server_args="${server_args} --nogui"
-server_args="${server_args} --universe save"
-
-unset server_jar
-server_jar="${PWD}/paper-1.20.1-196.jar"
-
 action=${1}
 shift 1
 
 # Start if not running
 if test ${action} = watch; then
     if ! screen -list | grep -q minecraft; then
-        screen -dmS minecraft java ${jvm_args} -jar ${server_jar} ${server_args}
+        screen -dmS minecraft ${PWD}/service_start.sh
         exit 0
     fi
 
@@ -43,7 +31,7 @@ if test ${action} = start || test ${action} = restart; then
         screen -XS minecraft quit > /dev/null 2>&1
     fi
 
-    screen -dmS minecraft java ${jvm_args} -jar ${server_jar} ${server_args}
+    screen -dmS minecraft ${PWD}/service_start.sh
     exit 0
 fi
 
