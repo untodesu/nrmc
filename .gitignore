@@ -8,6 +8,7 @@ libraries/**
 logs
 ops.json
 *.jar
+*.old
 save
 version_history.json
 versions
