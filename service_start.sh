@@ -18,7 +18,7 @@ server_args="${server_args} --nogui"
 server_args="${server_args} --universe save"
 
 unset server_jar
-server_jar="${PWD}/paper-1.20.4-408.jar"
+server_jar="${PWD}/paper-1.20.6-148.jar"
 
 nice -n -10 java ${jvm_args} -jar ${server_jar} ${server_args}
 
