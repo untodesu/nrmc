@@ -32,6 +32,7 @@ command:
     description: Toggle the pause state of renderers
     paused: <green>Renderers are now paused
     unpaused: <green>Renderers are now unpaused
+    already-paused: <grey>Renderers are already paused
   radiusrender:
     description: Render a section of a world
     starting: <green>Radius render starting. Check <grey>/map status</grey> for more
@@ -77,6 +78,10 @@ command:
     builds-behind: <yellow><italic>You are <number> builds behind.
     download: '<yellow><italic>Download new build at: <gold><link>'
     time-traveler: <yellow><italic>Are you a time traveler?
+  resume:
+    description: Resume renderers
+    resumed: <green>Renderers have now resumed
+    already-resumed: <grey>Renderers have already resumed
 httpd:
   started:
     success: <green>Internal webserver running on <yellow><bind></yellow>:<yellow><port></yellow>
@@ -109,6 +114,9 @@ ui:
   blockinfo:
     label: BlockInfo
     value: <block><br /><biome>
+    unknown:
+      block: Unknown block
+      biome: Unknown biome
   coords:
     label: Coordinates
     value: <x>, <y>, <z>
