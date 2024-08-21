@@ -1,0 +1,19 @@
+[Unit]
+Description=Minecraft Server [NRMC]
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+User=minecraft
+Group=minecraft
+WorkingDirectory=/srv/minecraft
+ExecStart=/usr/bin/java -Xms1024M -Xmx4096M -XX:ActiveProcessorCount=4 -jar paper-1.20.4-497.jar --nogui --universe save
+Sockets=minecraft.socket
+StandardInput=socket
+StandardOutput=journal
+StandardError=journal
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

@@ -5,7 +5,7 @@ settings:
   language-file: lang-en.yml
   # Set the web address players use to connect to your map. This
   # is only used for the client mod to know where to connect.
-  web-address: http://localhost:54000
+  web-address: http://localhost:25566
   web-directory:
     # The directory that houses the website and world tiles.
     # This is a relative path from Pl3xMap's plugin directory,
@@ -52,7 +52,7 @@ settings:
     bind: 0.0.0.0
     # The port the built-in web server listens to.
     # Make sure the port is allocated if using Pterodactyl.
-    port: 54000
+    port: 25566
     # Allows the built-in web server to follow symlinks.
     # It is generally advised against enabling this,
     # for security reasons. But you do you, boo boo.

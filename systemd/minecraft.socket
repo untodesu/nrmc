@@ -1,0 +1,8 @@
+[Unit]
+Description=Minecraft Server STDIN [NRMC]
+Wants=network-online.target
+After=network-online.target
+
+[Socket]
+ListenFIFO=%t/minecraft-stdin.fifo
+Service=minecraft.service

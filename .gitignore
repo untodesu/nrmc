@@ -30,3 +30,9 @@ plugins/DiscordSRV/config.yml
 plugins/DiscordSRV/linkedaccounts.json
 plugins/DiscordSRV/discord-console-logs
 plugins/DiscordSRV/discord-console-logs/**
+.bash_history
+.bash_profile
+.gitconfig
+.viminfo
+.lesshst
+.ssh/*
