@@ -1,7 +1,11 @@
 *.jar
 *.old
+*.sqlite
 .console_history
 .gitconfig
+.paper-remapped
+.paper-remapped/**
+.ssh
 .ssh/**
 banned-ips.json
 banned-players.json
@@ -22,6 +26,8 @@ plugins/Pl3xMap/markers
 plugins/Pl3xMap/markers/**
 plugins/Pl3xMap/web
 plugins/Pl3xMap/web/**
+plugins/spark
+plugins/spark/**
 plugins/bStats
 plugins/bStats/**
 save
