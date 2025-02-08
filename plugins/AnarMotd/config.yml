@@ -1,9 +1,9 @@
 title:
-  mode: prefix
+  mode: subtitle
   color: gray
   style: bold,italic
-  value: NRMC
+  value: No Rest in Minecraft
 motd:
   file: plugins/AnarMotd/motds.txt
-  color: gold
+  color: light_purple
   style: none
