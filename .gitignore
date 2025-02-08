@@ -19,6 +19,7 @@ plugins/CoreProtect/database.db
 plugins/bStats
 plugins/bStats/**
 .console_history
+.gitconfig
 plugins/Pl3xMap/web
 plugins/Pl3xMap/web/**
 plugins/Pl3xMap/layers
@@ -28,5 +29,8 @@ plugins/Pl3xMap/markers/**
 plugins/CoreProtect/.license
 plugins/DiscordSRV/config.yml
 plugins/DiscordSRV/linkedaccounts.json
+plugins/DiscordSRV/linkedaccounts.json.delete
 plugins/DiscordSRV/discord-console-logs
 plugins/DiscordSRV/discord-console-logs/**
+.ssh/**
+
