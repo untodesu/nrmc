@@ -7,3 +7,7 @@ header_pages:
 
 theme_config:
   appearance: auto
+  back_home_text: home
+  date_format: "%Y-%m-%d"
+  show_description: true
+  lowercase_titles: true
