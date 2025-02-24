@@ -5,4 +5,4 @@ After=network-online.target
 
 [Socket]
 ListenFIFO=%t/minecraft-stdin.fifo
-Service=minecraft.service
+Service=minecraft-server.service

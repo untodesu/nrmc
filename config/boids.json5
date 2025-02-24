@@ -1,0 +1,9 @@
+{
+  "separationInfluence": 0.5,
+  "separationRange": 0.8999999761581421,
+  "alignmentInfluence": 0.4000000059604645,
+  "cohesionInfluence": 0.05000000074505806,
+  "minSpeed": 0.30000001192092896,
+  "maxSpeed": 0.800000011920929,
+  "excludeEntities": []
+}
