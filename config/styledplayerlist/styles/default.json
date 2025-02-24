@@ -8,7 +8,7 @@
   ],
   "list_footer": [
     "",
-    "%server:tps_colored% TPS <gray>|</gray> <gray>Ping:</gray> %player:ping%ms",
+    "TPS: %server:tps_colored% <gray>|</gray> <gray>Ping:</gray> %player:ping%ms",
     ""
   ],
   "hidden_in_commands": false
