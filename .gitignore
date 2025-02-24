@@ -2,6 +2,8 @@
 .fabric/**
 cache
 cache/**
+config/chunky/tasks
+config/chunky/tasks/**
 libraries
 libraries/**
 logs
@@ -18,3 +20,4 @@ eula.txt
 ops.json
 whitelist.json
 *.jar
+*.bak

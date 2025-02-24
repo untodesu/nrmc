@@ -1,7 +1,12 @@
 {
   "config_version": 2,
+  "__comment": "Before changing anything, see https://github.com/Patbox/StyledPlayerList#configuration",
   "default_style": "default",
-  "messages": {},
+  "messages": {
+    "switch": "Your player list style has been changed to: <gold>${style}</gold>",
+    "unknown": "<red>This style doesn't exist!</red>",
+    "no_permission": "<red>You don't have required permissions!</red>"
+  },
   "player": {
     "modify_name": false,
     "modify_right_text": false,
