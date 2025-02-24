@@ -5,7 +5,7 @@ categories: update suspension
 ---
 
 ### Core player disappears
-A core player of the serer, `f12xz` has disappeared from the Internet.  
+A core player of the server, `f12xz` has disappeared from the Internet.  
 
 > *UPDATE 2025:* we have managed to contact them IRL. They are still alive, still well, still in Kiev; they just stopped using Internet as much as they did in 2024. Hopefully that's one less problem solved in management's lives.  
 
