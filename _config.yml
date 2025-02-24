@@ -1,12 +1,14 @@
 title: No Rest in Minecraft
-author:
-  name: NRMC
-description: >
-  NRMC is a Minecraft Survival Multiplayer (SMP) server
-  designed to preserve the "friends-only" feeling of a single
-  specific SMP server I was playing from 2018 up until 2022. NRMC
-  features almost fully open-source configuration and this has been
-  a core feature ever since the server's inception.
+description: No Rest in Minecraft
 remote_theme: jekyll/minima
+header_pages:
+  - about.md
 minima:
-  skin: dark
+  skin: solarized
+social_links:
+  - title: GitHub repository
+    icon: github
+    url: https://github.com/untodesu/nrmc
+  - title: The Linux Space Discord
+    icon: discord
+    url: https://discord.gg/AFe6Acxr78
