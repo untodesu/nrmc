@@ -4,11 +4,11 @@ remote_theme: jekyll/minima
 header_pages:
   - about.md
 minima:
-  skin: solarized
-social_links:
-  - title: GitHub repository
-    icon: github
-    url: https://github.com/untodesu/nrmc
-  - title: The Linux Space Discord
-    icon: discord
-    url: https://discord.gg/AFe6Acxr78
+  skin: dark
+  social_links:
+    - title: GitHub repository
+      icon: github
+      url: https://github.com/untodesu/nrmc
+    - title: The Linux Space Discord
+      icon: discord
+      url: https://discord.gg/AFe6Acxr78

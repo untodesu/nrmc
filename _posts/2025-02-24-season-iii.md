@@ -4,18 +4,18 @@ title: Season III update
 categories: update season
 ---
 
-## Server
+### Server
 * Purged old world save  
 * Updated server jar (`1.20.4-497` to Fabric 1.21.4)  
 * Switched to Fabric  
 
-## Datapacks
+### Datapacks
 * Removed all previously installed datapacks  
 
-## Plugins
+### Plugins
 * Removed all previously installed plguins
 
-## Mods
+### Mods
 * Added [AppleSkin](https://modrinth.com/mod/appleskin)  
 * Added [Boids](https://modrinth.com/mod/boids)  
 * Added [C2ME](https://modrinth.com/mod/c2me-fabric)  
