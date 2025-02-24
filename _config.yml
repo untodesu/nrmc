@@ -7,15 +7,3 @@ header_pages:
 
 theme_config:
   appearance: auto
-  show_description: true
-
-s
-minima:
-  skin: auto
-  social_links:
-    - title: GitHub repository
-      icon: github
-      url: https://github.com/untodesu/nrmc
-    - title: The Linux Space Discord
-      icon: discord
-      url: 
