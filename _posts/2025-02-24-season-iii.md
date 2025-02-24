@@ -6,7 +6,7 @@ category: update_season
 
 ### Server
 * Purged old world save  
-* Updated server jar (`1.20.4-497` to Fabric 1.21.4)  
+* Updated server jar (1.20.4-497 to Fabric 1.21.4)  
 * Switched to Fabric  
 
 ### Datapacks
