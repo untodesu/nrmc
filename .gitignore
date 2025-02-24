@@ -21,3 +21,4 @@ ops.json
 whitelist.json
 *.jar
 *.bak
+*.swp

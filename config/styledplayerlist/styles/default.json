@@ -3,12 +3,12 @@
   "update_tick_time": 20,
   "list_header": [
     "",
-    "<gr #1900FF #8400FF><bold>No Rest in Minecraft</bold></gr>",
+    " <gr #2631FF #FF2626><bold>No Rest in Minecraft</bold></gr> ",
     ""
   ],
   "list_footer": [
     "",
-    "%server:tps_colored% TPS <bold>|</bold> <gray>Ping:</gray> %player:ping%ms",
+    "%server:tps_colored% TPS <gray>|</gray> <gray>Ping:</gray> %player:ping%ms",
     ""
   ],
   "hidden_in_commands": false
