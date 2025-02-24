@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Season III update
-categories: update season
+category: update_season
 ---
 
 ### Server

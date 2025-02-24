@@ -1,11 +1,15 @@
 title: No Rest in Minecraft
 description: No Rest in Minecraft
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+remote_theme: riggraz/no-style-please
+
 header_pages:
   - about.md
+
+theme_config:
+  appearance: auto
+  show_description: true
+
+s
 minima:
   skin: auto
   social_links:
@@ -14,4 +18,4 @@ minima:
       url: https://github.com/untodesu/nrmc
     - title: The Linux Space Discord
       icon: discord
-      url: https://discord.gg/AFe6Acxr78
+      url: 

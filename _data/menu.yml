@@ -1,0 +1,15 @@
+entries:
+  - title: information
+    entries:
+      - title: about page
+        url: about.html
+      - title: github repository
+        url: https://github.com/untodesu/nrmc
+      - title: the linux space discord
+        url: https://discord.gg/AFe6Acxr78
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: Older posts...
+      show_more_url: archive.html

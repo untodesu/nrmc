@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Server suspension
-categories: update suspension
+category: update
 ---
 
 ### Core player disappears
