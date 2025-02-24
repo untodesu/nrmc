@@ -1,0 +1,3 @@
+disableConfigWatcher = false
+logUntranslatedConfigurationWarnings = true
+defaultConfigsPath = "defaultconfigs"

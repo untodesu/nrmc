@@ -1,0 +1,6 @@
+{
+  "transferItemsBetweenReplacedEntities": true,
+  "loopsAmountUsedToGetAllEntityDrops": 100,
+  "findABlockCheckAroundEntitiesDelayMs": 30000,
+  "enablePatronPets": false
+}

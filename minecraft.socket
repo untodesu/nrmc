@@ -5,4 +5,7 @@ After=network-online.target
 
 [Socket]
 ListenFIFO=%t/minecraft-stdin.fifo
-Service=minecraft-server.service
+Service=minecraft.service
+
+[Install]
+WantedBy=multi-user.target

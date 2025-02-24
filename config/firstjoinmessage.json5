@@ -1,0 +1,6 @@
+{
+  "firstJoinMessage": "Welcome to NRMC! Please play responsibly",
+  "firstJoinMessageTextFormattingColourIndex": 13,
+  "serverBroadcastMessage": "%s joined the game for the first time",
+  "serverBroadcastMessageTextFormattingColourIndex": 14
+}

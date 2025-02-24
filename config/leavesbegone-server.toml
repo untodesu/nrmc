@@ -1,0 +1,3 @@
+maximum_decay_ticks = 20
+minimum_decay_ticks = 5
+ignore_other_leave_types = false

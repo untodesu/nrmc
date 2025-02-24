@@ -6,8 +6,8 @@ After=network-online.target
 [Service]
 User=minecraft
 Group=minecraft
-WorkingDirectory=/opt/minecraft
-ExecStart=/usr/bin/java -Xms2048M -Xmx8192M -jar fabric-server-latest.jar --nogui --universe save
+WorkingDirectory=/opt/minecraft/nrmc
+ExecStart=/usr/bin/java -Xms2048M -Xmx8192M -jar fabric-server.jar --nogui --universe save
 Sockets=minecraft.socket
 StandardInput=socket
 StandardOutput=journal
